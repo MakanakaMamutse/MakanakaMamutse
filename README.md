@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="workspace-photo.jpg" alt="Makanaka coding" width="800" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+  <img src="workspace-photo.jpg" alt="Makanaka coding" width="625" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
   
   ### 🚀 Excited to connect, collaborate and innovate!
   
