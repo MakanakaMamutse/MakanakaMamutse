@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  ![Workspace Hero]<img src="workspace-photo.jpg" alt="Makanaka coding" width="400">
   
   ### 🚀 Excited to connect, collaborate and innovate!
   
@@ -64,6 +64,7 @@
 <br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
