@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Workspace Hero]<img src="workspace-photo.jpg" alt="Makanaka coding" width="400">
+  <img src="workspace-photo.jpg" alt="Makanaka coding" width="400">
   
   ### 🚀 Excited to connect, collaborate and innovate!
   
