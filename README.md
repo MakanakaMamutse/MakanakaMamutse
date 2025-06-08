@@ -17,7 +17,7 @@
 ### 🌟 About Me
 
 - 🌍 **Based in:** Cape Town, South Africa 🇿🇦
-- 💻 **Current Focus:** Building innovative web applications and exploring AI/ML
+- 💻 **Current Focus:** Building innovative web applications, exploring AI/ML, and completing my University Degree.
 - 🎯 **Goal:** Creating technology solutions that make a real impact
 - 🤝 **Open to:** Collaboration on exciting projects
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/makanaka)
