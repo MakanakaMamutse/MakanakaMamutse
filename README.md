@@ -131,7 +131,7 @@ while (makanaka.isAwake()) {
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+### 💭 *"Sometimes, to solve a problem, you must take a break"* - Somebody
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MakanakaMamutse&label=Profile%20views&color=0e75b6&style=flat)
 
