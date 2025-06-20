@@ -67,7 +67,7 @@
 ---
 
 ### 🛒 [E-commerce Project](https://github.com/MakanakaMamutse/E-commerce-Project)
-*Full-stack e-commerce solution with modern features*
+*Full-stack E-commerce solution with modern features*
 <br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
