@@ -101,7 +101,7 @@
 ```javascript
 const makanaka = {
     location: "Cape Town, ZA",
-    currentlyLearning: ["Machine Learning", "Cloud Computing", "Advanced React"],
+    currentlyLearning: ["Machine Learning", "Cloud Computing", "Advanced React", "Kotlin"],
     workingOn: ["3D Web Experiences", "AI Applications", "Open Source Contributions"],
     hobbies: ["Coding", "Gaming", "Tech Meetups", "Problem Solving"],
     funFact: "I debug with console.log and I'm not ashamed! 😄"
